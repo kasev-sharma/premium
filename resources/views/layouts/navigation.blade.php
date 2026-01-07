@@ -15,7 +15,7 @@
                 </div>
                 <!-- Text -->
                 <div class="flex flex-col">
-                    <span class="text-xl font-bold text-gray-800 leading-none tracking-tight">Premium<span class="text-primary">PG</span></span>
+                    <span class="text-xl font-bold text-gray-800 leading-none tracking-tight">Rao Sahab<span class="text-primary"> PG</span></span>
                     <span class="text-[10px] text-gray-500 uppercase tracking-widest font-medium">Gurgaon Sector 22</span>
                 </div>
             </a>
